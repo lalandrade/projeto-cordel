@@ -75,13 +75,13 @@ section.imagem > p{
     text-shadow: 2px 1px 0px black;
 }
 section#img01{
-    background-image: url('../img/background001.jpg');
+    background-image: url('/img/background001.jpg');
     background-position: right center;
     background-size: cover;
     
 }
 section#img02{
-    background-image: url('../img/background002.jpg');
+    background-image: url('/img/background002.jpg');
     background-position: right center;
     background-size: cover;
 }
